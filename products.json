@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Amazing Spider-man Vol. 1: Back to Basics",
+        "price": 13.99,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Captain American: Winter Soldier",
+        "price": 15.30,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Invincible Iron Man: Volume 1",
+        "price": 7.91,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Black Panther: A Nation Under Our Feet - Book 1",
+        "price": 14.50,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Scott Pilgrim's Precious Little Life: Volume 1",
+        "price": 6.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Death Note Black: Edition 1",
+        "price": 7.19,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "My Hero Academia: 1",
+        "price": 2.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "One-Punch Man: 1",
+        "price": 5.24,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    }
+  ]
+}
